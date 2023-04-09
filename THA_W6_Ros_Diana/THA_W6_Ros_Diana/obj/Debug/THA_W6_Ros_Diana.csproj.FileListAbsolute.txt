@@ -1,0 +1,36 @@
+C:\UC Student\Semester 2\Application Development\THA_W6_Ros_Diana\THA_W6_Ros_Diana\bin\Debug\THA_W6_Ros_Diana.exe.config
+C:\UC Student\Semester 2\Application Development\THA_W6_Ros_Diana\THA_W6_Ros_Diana\bin\Debug\THA_W6_Ros_Diana.exe
+C:\UC Student\Semester 2\Application Development\THA_W6_Ros_Diana\THA_W6_Ros_Diana\bin\Debug\THA_W6_Ros_Diana.pdb
+C:\UC Student\Semester 2\Application Development\THA_W6_Ros_Diana\THA_W6_Ros_Diana\obj\Debug\THA_W6_Ros_Diana.csproj.AssemblyReference.cache
+C:\UC Student\Semester 2\Application Development\THA_W6_Ros_Diana\THA_W6_Ros_Diana\obj\Debug\THA_W6_Ros_Diana.csproj.SuggestedBindingRedirects.cache
+C:\UC Student\Semester 2\Application Development\THA_W6_Ros_Diana\THA_W6_Ros_Diana\obj\Debug\THA_W6_Ros_Diana.Form1.resources
+C:\UC Student\Semester 2\Application Development\THA_W6_Ros_Diana\THA_W6_Ros_Diana\obj\Debug\THA_W6_Ros_Diana.Form_Player.resources
+C:\UC Student\Semester 2\Application Development\THA_W6_Ros_Diana\THA_W6_Ros_Diana\obj\Debug\THA_W6_Ros_Diana.Properties.Resources.resources
+C:\UC Student\Semester 2\Application Development\THA_W6_Ros_Diana\THA_W6_Ros_Diana\obj\Debug\THA_W6_Ros_Diana.csproj.GenerateResource.cache
+C:\UC Student\Semester 2\Application Development\THA_W6_Ros_Diana\THA_W6_Ros_Diana\obj\Debug\THA_W6_Ros_Diana.csproj.CoreCompileInputs.cache
+C:\UC Student\Semester 2\Application Development\THA_W6_Ros_Diana\THA_W6_Ros_Diana\obj\Debug\THA_W6_Ros_Diana.exe
+C:\UC Student\Semester 2\Application Development\THA_W6_Ros_Diana\THA_W6_Ros_Diana\obj\Debug\THA_W6_Ros_Diana.pdb
+C:\Users\windows 10\Downloads\THA_W6_Ros_Diana\THA_W6_Ros_Diana\bin\Debug\THA_W6_Ros_Diana.exe.config
+C:\Users\windows 10\Downloads\THA_W6_Ros_Diana\THA_W6_Ros_Diana\bin\Debug\THA_W6_Ros_Diana.exe
+C:\Users\windows 10\Downloads\THA_W6_Ros_Diana\THA_W6_Ros_Diana\bin\Debug\THA_W6_Ros_Diana.pdb
+C:\Users\windows 10\Downloads\THA_W6_Ros_Diana\THA_W6_Ros_Diana\obj\Debug\THA_W6_Ros_Diana.csproj.AssemblyReference.cache
+C:\Users\windows 10\Downloads\THA_W6_Ros_Diana\THA_W6_Ros_Diana\obj\Debug\THA_W6_Ros_Diana.csproj.SuggestedBindingRedirects.cache
+C:\Users\windows 10\Downloads\THA_W6_Ros_Diana\THA_W6_Ros_Diana\obj\Debug\THA_W6_Ros_Diana.Form1.resources
+C:\Users\windows 10\Downloads\THA_W6_Ros_Diana\THA_W6_Ros_Diana\obj\Debug\THA_W6_Ros_Diana.Form_Player.resources
+C:\Users\windows 10\Downloads\THA_W6_Ros_Diana\THA_W6_Ros_Diana\obj\Debug\THA_W6_Ros_Diana.Properties.Resources.resources
+C:\Users\windows 10\Downloads\THA_W6_Ros_Diana\THA_W6_Ros_Diana\obj\Debug\THA_W6_Ros_Diana.csproj.GenerateResource.cache
+C:\Users\windows 10\Downloads\THA_W6_Ros_Diana\THA_W6_Ros_Diana\obj\Debug\THA_W6_Ros_Diana.csproj.CoreCompileInputs.cache
+C:\Users\windows 10\Downloads\THA_W6_Ros_Diana\THA_W6_Ros_Diana\obj\Debug\THA_W6_Ros_Diana.exe
+C:\Users\windows 10\Downloads\THA_W6_Ros_Diana\THA_W6_Ros_Diana\obj\Debug\THA_W6_Ros_Diana.pdb
+C:\Users\HP\Downloads\THA_W6_Ros_Diana\THA_W6_Ros_Diana\bin\Debug\THA_W6_Ros_Diana.exe.config
+C:\Users\HP\Downloads\THA_W6_Ros_Diana\THA_W6_Ros_Diana\bin\Debug\THA_W6_Ros_Diana.exe
+C:\Users\HP\Downloads\THA_W6_Ros_Diana\THA_W6_Ros_Diana\bin\Debug\THA_W6_Ros_Diana.pdb
+C:\Users\HP\Downloads\THA_W6_Ros_Diana\THA_W6_Ros_Diana\obj\Debug\THA_W6_Ros_Diana.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\THA_W6_Ros_Diana\THA_W6_Ros_Diana\obj\Debug\THA_W6_Ros_Diana.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Downloads\THA_W6_Ros_Diana\THA_W6_Ros_Diana\obj\Debug\THA_W6_Ros_Diana.Form1.resources
+C:\Users\HP\Downloads\THA_W6_Ros_Diana\THA_W6_Ros_Diana\obj\Debug\THA_W6_Ros_Diana.Form_Player.resources
+C:\Users\HP\Downloads\THA_W6_Ros_Diana\THA_W6_Ros_Diana\obj\Debug\THA_W6_Ros_Diana.Properties.Resources.resources
+C:\Users\HP\Downloads\THA_W6_Ros_Diana\THA_W6_Ros_Diana\obj\Debug\THA_W6_Ros_Diana.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\THA_W6_Ros_Diana\THA_W6_Ros_Diana\obj\Debug\THA_W6_Ros_Diana.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\THA_W6_Ros_Diana\THA_W6_Ros_Diana\obj\Debug\THA_W6_Ros_Diana.exe
+C:\Users\HP\Downloads\THA_W6_Ros_Diana\THA_W6_Ros_Diana\obj\Debug\THA_W6_Ros_Diana.pdb
